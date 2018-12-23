@@ -37,6 +37,7 @@
 │          evalu3
 │          evalu4
 │          evalu5
+|
 │          
 └─src
     ├─java
@@ -68,3 +69,4 @@
             trainIdConvert.py \\训练集的格式转化
   
 ```
+在上述结构的基础上，data的weka文件夹内是使用weka的决策树算法进行预测的转换过训练集和训练结果。
